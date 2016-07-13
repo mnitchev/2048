@@ -1,0 +1,17 @@
+﻿Build started 17.9.2015 г. 19:26:20 ч..
+     1>Project "C:\Users\Mario\Desktop\C++\2048\2048\2048.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mario\desktop\c++\2048\2048\main.cpp(719): warning C4101: 'keyStateTitle' : unreferenced local variable
+     1>c:\users\mario\desktop\c++\2048\2048\main.cpp(799): warning C4101: 'keyState' : unreferenced local variable
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mario\Desktop\C++\2048\Debug\2048.exe" /INCREMENTAL /NOLOGO "allegro-5.0.10-monolith-mt.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mario\Desktop\C++\2048\Debug\2048.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mario\Desktop\C++\2048\Debug\2048.lib" /MACHINE:X86 Debug\main.obj
+         2048.vcxproj -> C:\Users\Mario\Desktop\C++\2048\Debug\2048.exe
+       BscMake:
+         D:\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Mario\Desktop\C++\2048\Debug\2048.bsc" /n Debug\main.sbr
+     1>Done Building Project "C:\Users\Mario\Desktop\C++\2048\2048\2048.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.53
